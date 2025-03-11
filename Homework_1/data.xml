@@ -1,0 +1,131 @@
+<?xml version="1.0" ?>
+<resources>
+    <resource>
+        <id>1</id>
+        <title>Românește</title>
+        <album>După Blocuri</album>
+        <year>1998</year>
+        <featuring>Don Baxter</featuring>
+        <views>1000000</views>
+        <likes>25000</likes>
+    </resource>
+    <resource>
+        <title>Până Când Moartea Ne Va Despărți (Remastered)</title>
+        <album>Băieții Buni</album>
+        <year>2003</year>
+        <description>Noua versiune remasterizată a piesei clasice.</description>
+        <featuring>Vlad Craioveanu</featuring>
+        <views>2000000</views>
+        <likes>50000</likes>
+        <id>2</id>
+    </resource>
+    <resource>
+        <id>3</id>
+        <title>Să Cânte Trompetele</title>
+        <album>Înapoi În Viitor</album>
+        <year>2011</year>
+        <featuring>Grasu XXL</featuring>
+        <views>2100000</views>
+        <likes>47000</likes>
+    </resource>
+    <resource>
+        <id>4</id>
+        <title>Oriunde</title>
+        <album>Străzile</album>
+        <year>1999</year>
+        <featuring>Puya</featuring>
+        <views>900000</views>
+        <likes>23000</likes>
+    </resource>
+    <resource>
+        <id>5</id>
+        <title>În Anii Ce Au Trecut</title>
+        <album>De Cartier</album>
+        <year>1998</year>
+        <featuring>La Familia</featuring>
+        <views>800000</views>
+        <likes>21000</likes>
+    </resource>
+    <resource>
+        <id>11</id>
+        <title>Cine E Cu Noi</title>
+        <album>Băieții Buni</album>
+        <year>2003</year>
+        <featuring>Puya</featuring>
+        <views>2500000</views>
+        <likes>60000</likes>
+    </resource>
+    <resource>
+        <id>12</id>
+        <title>Fără Număr</title>
+        <album>Înapoi În Viitor</album>
+        <year>2011</year>
+        <featuring>Guess Who</featuring>
+        <views>1900000</views>
+        <likes>45000</likes>
+    </resource>
+    <resource>
+        <id>13</id>
+        <title>La Fel De Prost Ca Tine</title>
+        <album>Viata Noastra</album>
+        <year>1995</year>
+        <featuring>Solo</featuring>
+        <views>700000</views>
+        <likes>18000</likes>
+    </resource>
+    <resource>
+        <id>14</id>
+        <title>De Cartier</title>
+        <album>De Cartier</album>
+        <year>1998</year>
+        <featuring>La Familia</featuring>
+        <views>1500000</views>
+        <likes>32000</likes>
+    </resource>
+    <resource>
+        <id>15</id>
+        <title>Scrisoare Pentru Liviu</title>
+        <album>Băieții Buni</album>
+        <year>2003</year>
+        <featuring>None</featuring>
+        <views>1100000</views>
+        <likes>28000</likes>
+    </resource>
+    <resource>
+        <id>16</id>
+        <title>Îngeri Pierduți</title>
+        <album>Băieții Buni</album>
+        <year>2003</year>
+        <featuring>None</featuring>
+        <views>1300000</views>
+        <likes>34000</likes>
+    </resource>
+    <resource>
+        <id>17</id>
+        <title>Marijuana</title>
+        <album>După Blocuri</album>
+        <year>1998</year>
+        <featuring>Cheloo</featuring>
+        <views>1750000</views>
+        <likes>39000</likes>
+    </resource>
+    <resource>
+        <id>18</id>
+        <title>Un 2 Si Trei De 0</title>
+        <album>Înapoi În Viitor</album>
+        <year>2011</year>
+        <featuring>Guess Who</featuring>
+        <views>1600000</views>
+        <likes>41000</likes>
+    </resource>
+    <resource>
+        <title>Până Când Moartea Ne Va Despărți (Remastered)</title>
+        <album>Băieții Buni</album>
+        <year>2003</year>
+        <description>Noua versiune remasterizată a piesei clasice.</description>
+        <featuring>Vlad Craioveanu</featuring>
+        <views>2000000</views>
+        <likes>50000</likes>
+        <id>14</id>
+    </resource>
+</resources>

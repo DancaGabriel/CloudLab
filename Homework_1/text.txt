@@ -1,0 +1,16 @@
+Get: http://localhost:9999/resource/ || http://localhost:9999/resource/4 
+PUT: http://localhost:9999/resource/5 
+{ 
+    "title": "Până Când Moartea Ne Va Despărți (Remastered)", 
+    "album": "Băieții Buni", "year": "2003", "description": 
+    "Noua versiune remasterizată a piesei clasice.", 
+    "featuring": "Vlad Craioveanu", "views": "2000000", "likes": "50000" }
+
+POST: http://localhost:9999/resource 
+{ 
+    "title": "Până Când Moartea Ne Va Despărți (Remastered)", 
+    "album": "Băieții Buni", "year": "2003", 
+    "description": "Noua versiune remasterizată a piesei clasice.", 
+    "featuring": "Vlad Craioveanu", "views": "2000000", "likes": "50000" }
+
+DELETE: http://localhost:9999/resource/10
